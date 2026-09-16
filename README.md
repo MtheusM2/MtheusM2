@@ -46,10 +46,9 @@ Sou Analista de T.I. com foco em redes e desenvolvimento de software. No dia a d
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MtheusM2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Matheus" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtheusM2&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas por Matheus" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MtheusM2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Matheus" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MtheusM2&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas por Matheus" />
 </p>
-
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-93700b340)
