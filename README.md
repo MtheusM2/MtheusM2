@@ -17,7 +17,7 @@ Sou Analista de T.I. com foco em redes e desenvolvimento de software. No dia a d
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -46,9 +46,10 @@ Sou Analista de T.I. com foco em redes e desenvolvimento de software. No dia a d
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MtheusM2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Matheus" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MtheusM2&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas por Matheus" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MtheusM2&theme=github_dark" alt="Estatísticas do GitHub de Matheus" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MtheusM2&theme=github_dark" alt="Linguagens mais utilizadas por Matheus" />
 </p>
+
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-93700b340)
