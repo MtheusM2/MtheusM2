@@ -46,8 +46,8 @@ Sou Analista de T.I. com foco em redes e desenvolvimento de software. No dia a d
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MtheusM2&theme=github_dark" alt="Estatísticas do GitHub de Matheus" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MtheusM2&theme=github_dark" alt="Linguagens mais utilizadas por Matheus" />
+  <img height="170" src="https://raw.githubusercontent.com/MtheusM2/MtheusM2/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub de Matheus" />
+  <img height="170" src="https://raw.githubusercontent.com/MtheusM2/MtheusM2/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais utilizadas por Matheus" />
 </p>
 
 ## 📫 Onde me encontrar
