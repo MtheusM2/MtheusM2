@@ -1,7 +1,7 @@
 # Olá, eu sou Matheus Santos do Nascimento 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Infraestrutura%2C+Redes+e+Desenvolvimento+Backend;Suporte+t%C3%A9cnico%2C+automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+pr%C3%A1ticas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Infraestrutura+%7C+Redes+%7C+Backend;Suporte+t%C3%A9cnico+e+automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 Sou profissional de T.I. com atuação em infraestrutura, redes, suporte técnico e desenvolvimento backend. Gosto de entender o problema de ponta a ponta — da conectividade e do ambiente até a aplicação — para criar soluções práticas, organizadas e seguras. Venho desenvolvendo minha experiência em automação, boas práticas de código e administração de ambientes.
