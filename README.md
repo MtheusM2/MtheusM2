@@ -35,7 +35,7 @@ Tenho experiência com automação, bancos de dados relacionais, testes, seguran
 
 ### Projetos públicos
 
-- **[Finanças do Casal](https://github.com/MtheusM2/Financas)** · Aplicação web pessoal para organizar receitas, despesas, objetivos e projeções financeiras familiares. `Python` `FastAPI` `React` `PostgreSQL` `Docker`
+- **[Finanças](https://github.com/MtheusM2/Financas)** · Aplicação web pessoal para organizar receitas, despesas, objetivos e projeções financeiras familiares. `Python` `FastAPI` `React` `PostgreSQL` `Docker`
 - **[SIGATC Compact — gestão de ativos de TI](https://github.com/MtheusM2/Sigatccompact)** · TCC que transforma controles manuais em um sistema web com autenticação, perfis de acesso e rastreabilidade. Atuei no backend, banco de dados, segurança, testes e documentação técnica. `Python` `Flask` `MySQL` `pytest`
 - **[Chamado — alertas em rede local](https://github.com/MtheusM2/Chamado)** · Sistema cliente-servidor usado para facilitar a comunicação entre computadores em uma farmácia, com chamados, alertas e descoberta de servidor na rede. `Python` `Tkinter` `SQLite`
 
