@@ -29,7 +29,7 @@ Sou profissional de TI e desenvolvedor em formação. Gosto de entender os probl
 ![Windows Server](https://img.shields.io/badge/Windows_Server-251638?style=flat-square&logoColor=C6A5FF)
 ![Redes](https://img.shields.io/badge/Redes_e_suporte-251638?style=flat-square&logoColor=C6A5FF)
 
-Tenho experiência com automação, bancos de dados relacionais, testes, segurança aplicada e suporte a ambientes de TI. Também venho explorando **FastAPI, React e PostgreSQL** em projetos pessoais como parte da minha jornada full stack.
+Tenho experiência com automação, bancos de dados relacionais, testes, segurança aplicada e suporte a ambientes de TI. Utilizo ferramentas de IA como apoio ao desenvolvimento e à documentação. Também venho explorando **FastAPI, React e PostgreSQL** em projetos pessoais como parte da minha jornada full stack.
 
 ## 🧩 Projetos em destaque
 
@@ -53,10 +53,10 @@ Os projetos privados permanecem protegidos; seus resumos mostram os problemas e 
 
 ## 🪄 O guardião do portal
 
-> Dizem que este mundo foi corrompido pela desinformação. Diante do portão que protege projetos ainda não revelados, o guardião sabe que força, sem conhecimento, pouco vale. É a sabedoria que dá discernimento para enfrentar aquilo que foge ao esperado.
+> Dizem que este mundo foi corrompido pela desinformação. O guardião sabe que força, sem conhecimento, pouco vale. É a sabedoria que dá discernimento para enfrentar aquilo que foge ao esperado.
 >
 > Atrás da porta, um peregrino estuda. Questiona o que lhe dizem, busca provas e aprende a reconhecer o que ainda não sabe. Seu objetivo é dominar diferentes classes, mas não por status: ele se desenvolve para ter a segurança de compreender o que faz e pelo compromisso de construir sobre aquilo que pode comprovar.
 
 <p align="center">
-  <img src="assets/guardiao-do-portal.gif" alt="Em pixel art, um mago de capuz e cajado guarda um portão. A porta se abre e revela Matheus, de cabelo cacheado, estudando em seu computador e olhando para a entrada." width="540">
+  <img src="assets/guardiao-do-portal-v2.gif" alt="Em pixel art, um mago de capuz e cajado guarda um portão. Pela porta aberta, Matheus, de cabelo cacheado, estuda de costas diante do computador." width="540">
 </p>
