@@ -1,71 +1,60 @@
-# Olá, eu sou Matheus Santos do Nascimento 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Infraestrutura+%7C+Redes+%7C+Backend;Suporte+t%C3%A9cnico+e+automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="assets/reino-banner.png" alt="Em pixel art roxa e preta, um mago observa um castelo iluminado por magia." width="100%">
 </p>
 
-Sou profissional de T.I. com atuação em infraestrutura, redes, suporte técnico e desenvolvimento backend. Gosto de entender o problema de ponta a ponta — da conectividade e do ambiente até a aplicação — para criar soluções práticas, organizadas e seguras. Venho desenvolvendo minha experiência em automação, boas práticas de código e administração de ambientes.
+<h1 align="center">Olá, eu sou Matheus Santos 👋🏾</h1>
+<p align="center"><strong>Desenvolvimento backend · Infraestrutura · Em evolução para full stack</strong></p>
 
-- 🔧 Atuo com suporte técnico, infraestrutura, conectividade e manutenção de ambientes de T.I.
-- 💻 Desenvolvo soluções backend e automações com Python, Flask e bancos de dados relacionais.
-- 🌐 Tenho interesse contínuo em redes, servidores, segurança aplicada e melhoria de processos.
-- 🎯 Busco evoluir com projetos que unam necessidades reais de infraestrutura e desenvolvimento.
+Sou profissional de TI e desenvolvedor em formação. Gosto de entender os problemas de ponta a ponta — da infraestrutura à aplicação — e criar soluções que tornem o trabalho mais simples, organizado e seguro. Trabalho com sistemas, redes e suporte, enquanto amplio meus conhecimentos de desenvolvimento web e construção de produtos.
 
-## 🧩 Projeto em destaque
+## 🛠️ Tecnologias e conhecimentos
 
-### [SIGATC Compact — Sistema de Gestão de Ativos](https://github.com/MtheusM2/Sigatccompact)
+**Desenvolvimento e dados**
 
-Sistema web para gestão de ativos de T.I., desenvolvido como TCC. O projeto reúne backend em Flask, banco MySQL, autenticação por sessão, controle de acesso por perfis (RBAC), migrations, testes automatizados e integração contínua com GitHub Actions. Foi pensado para substituir controles manuais por um processo mais organizado, rastreável e seguro.
+![Python](https://img.shields.io/badge/Python-251638?style=flat-square&logo=python&logoColor=C6A5FF)
+![Flask](https://img.shields.io/badge/Flask-251638?style=flat-square&logo=flask&logoColor=C6A5FF)
+![SQL](https://img.shields.io/badge/SQL-251638?style=flat-square&logoColor=C6A5FF)
+![MySQL](https://img.shields.io/badge/MySQL-251638?style=flat-square&logo=mysql&logoColor=C6A5FF)
+![SQLite](https://img.shields.io/badge/SQLite-251638?style=flat-square&logo=sqlite&logoColor=C6A5FF)
+![HTML](https://img.shields.io/badge/HTML-251638?style=flat-square&logo=html5&logoColor=C6A5FF)
+![CSS](https://img.shields.io/badge/CSS-251638?style=flat-square&logo=css&logoColor=C6A5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-251638?style=flat-square&logo=javascript&logoColor=C6A5FF)
 
-## 🚀 Minhas Especialidades e Tecnologias
+**Ferramentas e infraestrutura**
 
-### Backend e Automação
+![Git](https://img.shields.io/badge/Git-251638?style=flat-square&logo=git&logoColor=C6A5FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-251638?style=flat-square&logo=githubactions&logoColor=C6A5FF)
+![Docker](https://img.shields.io/badge/Docker-251638?style=flat-square&logo=docker&logoColor=C6A5FF)
+![Linux](https://img.shields.io/badge/Linux-251638?style=flat-square&logo=linux&logoColor=C6A5FF)
+![Windows Server](https://img.shields.io/badge/Windows_Server-251638?style=flat-square&logoColor=C6A5FF)
+![Redes](https://img.shields.io/badge/Redes_e_suporte-251638?style=flat-square&logoColor=C6A5FF)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+Tenho experiência com automação, bancos de dados relacionais, testes, segurança aplicada e suporte a ambientes de TI. Também venho explorando **FastAPI, React e PostgreSQL** em projetos pessoais como parte da minha jornada full stack.
 
-### Banco de Dados
+## 🧩 Projetos em destaque
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### Projetos públicos
 
-### Infraestrutura e Redes
+- **[SIGATC Compact — gestão de ativos de TI](https://github.com/MtheusM2/Sigatccompact)** · TCC que transforma controles manuais em um sistema web com autenticação, perfis de acesso e rastreabilidade. Atuei no backend, banco de dados, segurança, testes e documentação técnica. `Python` `Flask` `MySQL` `pytest`
+- **[Chamado — alertas em rede local](https://github.com/MtheusM2/Chamado)** · Sistema cliente-servidor usado para facilitar a comunicação entre computadores em uma farmácia, com chamados, alertas e descoberta de servidor na rede. `Python` `Tkinter` `SQLite`
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2F81F7?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-2F81F7?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-2F81F7?style=for-the-badge)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge)
+### Projetos privados
 
-### DevOps e Ferramentas
+- **Controle de ativos** · Sistema corporativo em uso que centraliza o inventário e a movimentação de equipamentos, reduzindo a dependência de planilhas e facilitando a rastreabilidade. `Python` `Flask` `MySQL`
+- **Planejamento financeiro pessoal** · Aplicação web para organizar receitas, despesas, objetivos e projeções financeiras familiares. `Python` `FastAPI` `React` `PostgreSQL` `Docker`
+- **Análise de leads de marketing** · Projeto de dashboard para reunir e visualizar informações de campanhas; seu desenvolvimento foi interrompido. `Python` `Streamlit` `MySQL`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Os projetos privados permanecem protegidos; seus resumos mostram os problemas e as soluções sem expor código ou dados internos.
 
-### Conhecimentos Complementares
+## 📫 Vamos conversar?
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B2678?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-93700b340)
+[![E--mail](https://img.shields.io/badge/E--mail-4B2678?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.matheus12345tz@gmail.com)
 
-## 📊 Estatísticas do GitHub
+## 🪄 O guardião do portal
+
+> Dizem que, no fim deste reino, um mago de capuz guarda os projetos que ainda não podem ser revelados. Atrás do portão, o rei mago segue estudando, criando e aperfeiçoando suas habilidades. Cada desafio é um novo feitiço; cada aprendizado, um passo para dominar diferentes classes e se tornar um desenvolvedor full stack.
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/MtheusM2/MtheusM2/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub de Matheus" />
-  <img height="170" src="https://raw.githubusercontent.com/MtheusM2/MtheusM2/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais utilizadas por Matheus" />
+  <img src="assets/guardiao-do-portal.gif" alt="Em pixel art, um mago de capuz e cajado guarda um portão. A porta se abre e revela Matheus, de cabelo cacheado, estudando em seu computador e olhando para a entrada." width="540">
 </p>
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-93700b340)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.matheus12345tz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MtheusM2)
