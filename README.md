@@ -55,7 +55,7 @@ Os projetos privados permanecem protegidos; seus resumos mostram os problemas e 
 
 > Dizem que este mundo foi corrompido pela desinformação. Diante do portão que protege projetos ainda não revelados, o guardião sabe que força, sem conhecimento, pouco vale. É a sabedoria que dá discernimento para enfrentar aquilo que foge ao esperado.
 >
-> Atrás da porta, o rei mago estuda. Questiona o que lhe dizem, busca provas e aprende a reconhecer o que ainda não sabe. Seu objetivo é dominar diferentes classes, mas não por status: ele se desenvolve para ter a segurança de compreender o que faz e pelo compromisso de construir sobre aquilo que pode comprovar.
+> Atrás da porta, um peregrino estuda. Questiona o que lhe dizem, busca provas e aprende a reconhecer o que ainda não sabe. Seu objetivo é dominar diferentes classes, mas não por status: ele se desenvolve para ter a segurança de compreender o que faz e pelo compromisso de construir sobre aquilo que pode comprovar.
 
 <p align="center">
   <img src="assets/guardiao-do-portal.gif" alt="Em pixel art, um mago de capuz e cajado guarda um portão. A porta se abre e revela Matheus, de cabelo cacheado, estudando em seu computador e olhando para a entrada." width="540">
